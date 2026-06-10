@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I am Somendra Kothari
+<br>
+B.Tech Chemical Engineering @ IIT Hyderabad
+<br>
 
-<!--
-**SomendraKothari/SOMENDRAKOTHARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<br>
+- Python
+<br>
+- Pandas
+<br>
+- SQL (Learning)
+<br>
+- Data Analysis
+<br>
+<br>
 
-Here are some ideas to get you started:
+## Current Goals
+<br>
+- Build practical Python projects
+<br>
+- Improve problem solving
+<br>
+- Learn automation
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+<br>
+- Student Performance Analyzer
+<br>
+- Sales Data Analyzer
+<br>
+- Smart File Organiser
