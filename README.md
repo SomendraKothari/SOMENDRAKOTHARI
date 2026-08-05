@@ -9,8 +9,6 @@ B.Tech Chemical Engineering @ IIT Hyderabad
 <br>
 - Pandas
 <br>
-- SQL (Learning)
-<br>
 - Data Analysis
 <br>
 <br>
